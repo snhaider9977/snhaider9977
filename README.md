@@ -1,9 +1,10 @@
 <h1 align="center">Hi  I'm Shahid Haider</h1>
 <h3 align="center">I am a passionate engineer who thrives on building new things and constantly expanding my technological expertise. With a deep love for innovation, I embrace learning new technologies to deliver impactful solutions.</h3>
+- 🔭 I’m currently working on Platform engineering
 
 - 🌱 I’m currently learning **Terraform , Kubernetes**
 
-- 💬 Ask me about **Azure, AWS , cloud, ML**
+- 💬 Ask me about **Azure, AWS , cloud, ML, Spark**
 
 - 📫 How to reach me **snhaider9977@gmail.com**
 
